@@ -2,7 +2,7 @@
   <img src="assets/Square310x310Logo.png" alt="Clipboard Logo" width="150" />
 </p>
 
-<h1 align="center">Clipboard v1.0.3</h1>
+<h1 align="center">Cliproach v1.0.3</h1>
 
 Clipboard pratik bir clipboard yöneticisi.
 
@@ -41,7 +41,7 @@ Bu işlem yalnızca bir kez gereklidir; sonraki açılışlarda uygulama normal 
 Uygulama hâlâ "hasarlı" veya "açılamıyor" hatası veriyorsa Terminal'de aşağıdaki komutu çalıştırıp tekrar deneyin:
 
 ```bash
-xattr -cr /Applications/Clipboard.app
+xattr -cr /Applications/Cliproach.app
 ```
 
 İlk sürümü denediğiniz için teşekkürler!
