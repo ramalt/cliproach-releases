@@ -21,8 +21,8 @@ Clipboard pratik bir clipboard yöneticisi.
 Releases Bölümünden uygun dosyayı indirin:
 
 - **macOS:** `.dmg`
-- **Windows:** `.exe`
 - **Linux:** `.AppImage`
+- **Windows:** `.exe` (Windows için son sürüm **v1.0.3**'tür; bu sürümden sonra Windows için yeni sürüm çıkarılmayacaktır.)
 
 Kurulum adımlarını takip ederek Clipboard'ı kullanmaya başlayabilirsiniz.
 
