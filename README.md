@@ -2,7 +2,7 @@
   <img src="assets/Square310x310Logo.png" alt="Clipboard Logo" width="150" />
 </p>
 
-<h1 align="center">Clipboard v1.0.2</h1>
+<h1 align="center">Clipboard v1.0.3</h1>
 
 Clipboard pratik bir clipboard yöneticisi.
 
