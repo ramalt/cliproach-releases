@@ -44,4 +44,4 @@ Uygulama hâlâ "hasarlı" veya "açılamıyor" hatası veriyorsa Terminal'de a�
 xattr -cr /Applications/Clipboard.app
 ```
 
-İlk sürümümüzü denediğiniz için teşekkürler!
+İlk sürümü denediğiniz için teşekkürler!
