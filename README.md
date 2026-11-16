@@ -12,6 +12,10 @@ Clipboard pratik bir clipboard yöneticisi.
 - Önceden kopyaladığınız içeriklere hızlıca erişebilirsiniz.
 - **macOS Menü Çubuğu Entegrasyonu:** Menü çubuğundaki uygulama simgesi üzerinden clipboard geçmişinize hızlıca erişebilirsiniz.
 
+<p align="center">
+  <img src="assets/preview.gif" alt="Clipboard Önizleme" width="600" />
+</p>
+
 ### İndirme ve Kurulum
 
 Releases Bölümünden uygun dosyayı indirin:
